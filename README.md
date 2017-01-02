@@ -27,6 +27,8 @@
       - Voici le résumé de votre commande
       - Confirmer votre adresse E-mail
     - Output personalisé ... ITTT, notifications RS ...
+  - Avantages !
+    - __Le__ moyen le plus efficace 
 - Où et comment l'E-Mailing s'inscrit dans la stratégie digitale
   - Le plus vite possible ;-) (--> L'acquisition d'email est souvent le premier objectif de conversion)
   - Au centre des communications (messages)
@@ -37,9 +39,9 @@
   - Quand ?
   - Exercice pratique
 - Dates
-  - 9 janvier
-  - 11 janvier
-  - 25 janvier
+  - 9 janvier (que, pourquoi, à qui)
+  - 11 janvier (Comment et quand)
+  - 25 janvier (Exercice pratique)
 
 
 ## Que communiquer et pourquoi
