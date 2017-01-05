@@ -8,7 +8,7 @@
 ## Introduction
 
 - Micro-introduction - L'objectif du cours est de comprendre l'importance de l'e-Mailing (Son fonctionnement, ses codes, son évolution future)
-- À propos de Moi - Première newsletter codée en 2003 (depuis gestion de newsletter, mise en place de campagne pour les clients d'Antistatique)
+- À propos de Moi - Première newsletter codée en 2003 (depuis gestion de newsletter, mise en place de campagne pour les clients d'Antistatique (Confédération, Vaudoise, British American Tobacco, Cardis, Pierre Etoile, ...))
   - Pourquoi c'est génial les newsletters (Les avantages du print sans les inconvénients ?!)
 - Théorie
   - E-mailing c'est quoi : "Emailing or E-mailing is a method of direct marketing which uses electronic mail as a means of commercial communication to send messages to an audience." (Wikipedia)
@@ -28,7 +28,7 @@
       - Confirmer votre adresse E-mail
     - Output personalisé ... ITTT, notifications RS ...
   - Avantages !
-    - __Le__ moyen le plus efficace 
+    - __Le__ moyen le plus efficace (le plus de conversion)
 - Où et comment l'E-Mailing s'inscrit dans la stratégie digitale
   - Le plus vite possible ;-) (--> L'acquisition d'email est souvent le premier objectif de conversion)
   - Au centre des communications (messages)
@@ -56,6 +56,7 @@
 - Contenu rédactionnel
 - Contenu personnalisé (via la segmentation)
 - Via les workflow
+- Stratégie d'aquisition, stratégie de désinscription (Configuration du compte)
 
 
 ## À qui
@@ -73,7 +74,7 @@
 ## Comment
 
 - La technique
-- Design
+- Design (https://www.campaignmonitor.com/best-email-marketing-campaigns/)
 - Code
   - Les tableaux
 - Outils
