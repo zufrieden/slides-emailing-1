@@ -28,10 +28,13 @@
       - Confirmer votre adresse E-mail
     - Output personalisé ... ITTT, notifications RS ...
   - Avantages !
-    - __Le__ moyen le plus efficace (le plus de conversion)
+    - __Le__ moyen le plus efficace (le plus de conversion) plus gros ROI
+    - Lien direct, contenu personnalisable
+    - Bon marché !
 - Où et comment l'E-Mailing s'inscrit dans la stratégie digitale
-  - Le plus vite possible ;-) (--> L'acquisition d'email est souvent le premier objectif de conversion)
+  - Le plus vite possible ;-) (--> L'acquisition d'email est souvent le premier objectif de conversion pour le lancement d'un service)
   - Au centre des communications (messages)
+  - Eco-système avec les médias sociaux, avec les publicictés ciblées
 - Organisation du Cours
   - Que communiquer et pourquoi ?
   - À qui ?
@@ -39,19 +42,23 @@
   - Quand ?
   - Exercice pratique
 - Dates
-  - 9 janvier (que, pourquoi, à qui)
-  - 11 janvier (Comment et quand)
+  - 9 janvier (que, pourquoi, à qui, comment)
+  - 11 janvier (Comment suite et quand)
   - 25 janvier (Exercice pratique)
 
 
 ## Que communiquer et pourquoi
 
+- Garder contact
 - Vendre
+  - E-commerce, promotions, actions spéciales
 - Informer
 - Relancer
 - Intéresser
 - Recruter
+
 - Newsletter => levier pour amener les utilisateurs vers des URLs
+
 - Agenda d'envoi
 - Contenu rédactionnel
 - Contenu personnalisé (via la segmentation)
