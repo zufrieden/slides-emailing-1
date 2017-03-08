@@ -42,9 +42,9 @@
   - Quand ?
   - Exercice pratique
 - Dates
-  - 9 janvier (que, pourquoi, à qui, comment)
-  - 11 janvier (Comment suite et quand)
-  - 25 janvier (Exercice pratique)
+  - 8 mars (que, pourquoi, à qui, comment)
+  - 13 mars (Comment suite et quand)
+  - 15 mars (Fin de l'exercice pratique)
 
 
 ## Que communiquer et pourquoi
