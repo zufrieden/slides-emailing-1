@@ -59,7 +59,7 @@
 
 - Newsletter => levier pour amener les utilisateurs vers des URLs
 
-- Agenda d'envoi
+
 - Contenu rédactionnel
 - Contenu personnalisé (via la segmentation)
 - Via les workflow
@@ -85,6 +85,7 @@
 - Code
   - Les tableaux
 - Outils
+- Workflow
 - Tests
   - Litmus ;-)
 - Comment s'informer
@@ -93,6 +94,7 @@
 ## Quand
 
 - Périodicité
+- Agenda d'envoi
 - Date et heure d'envoi *Mardi.10h ;-) (attention timezone)*
 
 
